@@ -3,36 +3,36 @@
 
   <!-- Room requirements -->
   <!-- EN: Need throneroom -->
-  <NeedThroneAssigned>TODO</NeedThroneAssigned>
+  <NeedThroneAssigned>Необходим тронный зал</NeedThroneAssigned>
   <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nBuild a throne in a room, then assign the throne to the title holder. The throneroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedThroneAssignedDesc>TODO</NeedThroneAssignedDesc>
+  <NeedThroneAssignedDesc>У одного из ваших людей есть титул, для которого требуется тронный зал. \n\nПостройте трон в комнате, а затем назначьте трон титулованному поселенцу. Тронный зал должен быть соответствующего размера и его необходимо украсить для удовлетворения треований поселенца с титулом.</NeedThroneAssignedDesc>
 
   <!-- EN: Undignified bedroom -->
-  <UndignifiedBedroom>TODO</UndignifiedBedroom>
+  <UndignifiedBedroom>Скверная спальня</UndignifiedBedroom>
   <!-- EN: One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements. -->
-  <UndignifiedBedroomDesc>TODO</UndignifiedBedroomDesc>
+  <UndignifiedBedroomDesc>Один из ваших людей имеет титул и ему необходима спальня с определенными свойствами. Спальня не назначена, или назначенная спальня не удовлетворяет потребностям поселенца с титулом.</UndignifiedBedroomDesc>
 
   <!-- EN: Title requires bedroom -->
-  <NeedBedroomAssigned>TODO</NeedBedroomAssigned>
+  <NeedBedroomAssigned>Титулованный нуждается в спальне</NeedBedroomAssigned>
   <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedBedroomAssignedDesc>TODO</NeedBedroomAssignedDesc>
+  <NeedBedroomAssignedDesc>У одного из ваших людей есть титул, для которого требуется личная спальня, но спальня не назначена. \n\nНазначьте поселенцу с титулом личную спальню. Она должна быть подходящего размера и ее необходимо украсить, для удовлетворения потребностей поселенца с титулом.</NeedBedroomAssignedDesc>
 
   <!-- EN: Undignified throneroom -->
-  <UndignifiedThroneroom>TODO</UndignifiedThroneroom>
+  <UndignifiedThroneroom>Скверный тронный зал</UndignifiedThroneroom>
   <!-- EN: One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements. -->
-  <UndignifiedThroneroomDesc>TODO</UndignifiedThroneroomDesc>
+  <UndignifiedThroneroomDesc>Один из ваших людей имеет титул и трон, но тронный зал не удовлетворяет его потребностям.</UndignifiedThroneroomDesc>
   
   <!-- EN: No acceptable food -->
-  <RoyalNoAcceptableFood>TODO</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFood>Нет подходящей еды</RoyalNoAcceptableFood>
   <!-- EN: One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements. -->
-  <RoyalNoAcceptableFoodDesc>TODO</RoyalNoAcceptableFoodDesc>
+  <RoyalNoAcceptableFoodDesc>Один из ваших людей имеет титул и ему необходима особая еда. Но нет еды, которая подходит для этого титулованного поселенца.</RoyalNoAcceptableFoodDesc>
 
   <!-- EN: {0} days until requirement begins -->
-  <RoomRequirementGracePeriodDesc>TODO</RoomRequirementGracePeriodDesc>
+  <RoomRequirementGracePeriodDesc>{0} дней до начала требования</RoomRequirementGracePeriodDesc>
 
   <!-- EN: Throne not usable -->
-  <ThroneroomInvalidConfiguration>TODO</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfiguration>Трон не используется</ThroneroomInvalidConfiguration>
   <!-- EN: A throne is not usable because of how it is set up: -->
-  <ThroneroomInvalidConfigurationDesc>TODO</ThroneroomInvalidConfigurationDesc>
+  <ThroneroomInvalidConfigurationDesc>Трон не может быть использован из-за того, как он установлен:</ThroneroomInvalidConfigurationDesc>
   
 </LanguageData>
